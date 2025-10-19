@@ -64,25 +64,25 @@ th:hover, td:hover {
 .cell-20 { background-color: #FFFF00; color: black; } /* Yellow */
 
 /* Table 2 - Header Colors */
-.cell-21 { background-color: #1E90FF; color: white; } /* Dodger Blue */
-.cell-22 { background-color: #1E90FF; color: white; } /* Dodger Blue */
-.cell-23 { background-color: #1E90FF; color: white; } /* Dodger Blue */
-.cell-24 { background-color: #1E90FF; color: white; } /* Dodger Blue */
+.cell-21 { background-color: #333; color: white; } /* Dodger Blue */
+.cell-22 { background-color: #8B4513; color: white; } /* Dodger Blue */
+.cell-23 { background-color: #FF00FF; color: white; } /* Dodger Blue */
+.cell-24 { background-color:#FFFF00; color: white; } /* Dodger Blue */
 
 /* Table 2 - Row 1 Colors */
-.cell-25 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-26 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-27 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-28 { background-color: #E6F2FF; color: black; } /* Light Blue */
+.cell-25 { background-color: #4B0082; color: black; } /* Light Blue */
+.cell-26 { background-color: blanchedalmond; color: black; } /* Light Blue */
+.cell-27 { background-color: #FFC0CB; color: black; } /* Light Blue */
+.cell-28 { background-color: #00FF00; color: black; } /* Light Blue */
 
 /* Table 2 - Row 2 Colors */
-.cell-29 { background-color: #FFFFFF; color: black; } /* White */
-.cell-30 { background-color: #FFFFFF; color: black; } /* White */
-.cell-31 { background-color: #FFFFFF; color: black; } /* White */
-.cell-32 { background-color: #FFFFFF; color: black; } /* White */
+.cell-29 { background-color: brown; color: black; } /* White */
+.cell-30 { background-color: #00CED1; color: black; } /* White */
+.cell-31 { background-color: bisque; color: black; } /* White */
+.cell-32 { background-color: cadetblue; color: black; } /* White */
 
 /* Table 2 - Row 3 Colors */
-.cell-33 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-34 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-35 { background-color: #E6F2FF; color: black; } /* Light Blue */
-.cell-36 { background-color: #E6F2FF; color: black; } /* Light Blue */
+.cell-33 { background-color: #333; color: black; } /* Light Blue */
+.cell-34 { background-color:#90EE90; color: black; } /* Light Blue */
+.cell-35 { background-color: #FFC0CB; color: black; } /* Light Blue */
+.cell-36 { background-color: #808080; color: black; } /* Light Blue */
